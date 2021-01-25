@@ -11,7 +11,7 @@
 ### Create an .env file and add all global variables
 ### Run npm install
 
-### Go to the frontend section :[https://github.com/markwisdomreeves/ecom-frontend-client]
+###### Go to the frontend section :[https://github.com/markwisdomreeves/ecom-frontend-client]
 
 
 
